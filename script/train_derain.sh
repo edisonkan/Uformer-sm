@@ -1,0 +1,1 @@
+python3 ./train/train_derain.py 
